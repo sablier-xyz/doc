@@ -1,7 +1,7 @@
 # Restart a worker
 
 ### Prerequisite
-Login to the machine with your ssh key under the ubuntu.
+Login to the machine with your ssh key under the ubuntu user.
 
 ### To stop the validator
 Run
